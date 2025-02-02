@@ -12,17 +12,17 @@ This project leverages **ensemble learning** to improve the accuracy of plant di
 ---
 
 ## 📂 Project Structure  
-
-├── front_end_file.py                        **# Streamlit-based frontend for disease detection**
-├── Plant_Disease_Week_1_CheckPoint.ipynb    **# Jupyter Notebook with model training code**
-├── cnn_model.keras                          **# Trained CNN model**
-├── resnet_model.keras                       **# Trained ResNet model**
-├── inception_resnet_model.keras             **# Trained Inception-ResNet model**
-├── vgg_model.keras                          **# Trained VGG model**
-├── requirements.txt                         **# List of dependencies**
-├── output.png                               **# Sample output image**
-├── README.md                                **# Project documentation**
-
+```plaintext
+├── front_end_file.py                        # Streamlit-based frontend for disease detection
+├── Plant_Disease_Week_1_CheckPoint.ipynb    # Jupyter Notebook with model training code
+├── cnn_model.keras                          # Trained CNN model
+├── resnet_model.keras                       # Trained ResNet model
+├── inception_resnet_model.keras             # Trained Inception-ResNet model
+├── vgg_model.keras                          # Trained VGG model
+├── requirements.txt                         # List of dependencies
+├── output.png                               # Sample output image
+├── README.md                                # Project documentation
+```
 
 
 ---
