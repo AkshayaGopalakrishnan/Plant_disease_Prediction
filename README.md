@@ -43,7 +43,7 @@ This project leverages **ensemble learning** to improve the accuracy of plant di
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone https://github.com/yourusername/plant-disease-detection.git
+git clone https://github.com/yourusername/plant-disease-detection.git](https://github.com/AkshayaGopalakrishnan/Plant_disease_Prediction.git
 cd plant-disease-detection
 ```
 2️⃣ Install Dependencies
