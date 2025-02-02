@@ -12,7 +12,7 @@ This project leverages **ensemble learning** to improve the accuracy of plant di
 ---
 
 ## 📂 Project Structure  
-```plaintext
+
 ├── front_end_file.py                        **# Streamlit-based frontend for disease detection**
 ├── Plant_Disease_Week_1_CheckPoint.ipynb    **# Jupyter Notebook with model training code**
 ├── cnn_model.keras                          **# Trained CNN model**
@@ -22,7 +22,7 @@ This project leverages **ensemble learning** to improve the accuracy of plant di
 ├── requirements.txt                         **# List of dependencies**
 ├── output.png                               **# Sample output image**
 ├── README.md                                **# Project documentation**
-```
+
 
 
 ---
